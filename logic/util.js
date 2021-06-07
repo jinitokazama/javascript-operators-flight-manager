@@ -15,7 +15,7 @@ function Util() {
     for (let passenger of passengers) {
       totalPassengers += passenger;
     }
-    console.log("total passenger, is", totalPassengers)
+
     return totalPassengers;
   }
 
